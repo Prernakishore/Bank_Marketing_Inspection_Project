@@ -11,13 +11,16 @@ Using Python and machine learning techniques, I performed data cleaning, explora
 The project helped me strengthen my practical skills in data analysis, data visualization, and machine learning.
 
 ## Project Screenshots
-###1. Exploratory Data Analysis
+### 1. Exploratory Data Analysis
+
 <img width="627" height="506" alt="EDA_Chart" src="https://github.com/user-attachments/assets/56abab61-aab4-4123-a5e4-d23b637920ea" />
 
-###2. Correlation Heatmap
+### 2. Correlation Heatmap
+
 <img width="897" height="790" alt="Correlation_Heatmap" src="https://github.com/user-attachments/assets/38f55dd5-f865-415e-867d-ffa6b9a2e9a3" />
 
-###3. Model Evaluation
+### 3. Model Evaluation
+
 <img width="462" height="291" alt="Model_results" src="https://github.com/user-attachments/assets/35b1a25c-d409-4dd6-b783-337d81423bba" />
 
 ##  Objectives
